@@ -9,7 +9,6 @@ Các bài giải được tổ chức theo độ khó:
 * `./Easy`
 * `./Medium`
 * `./Hard`
-
 ## Bảng theo dõi tiến độ
 
 | ID | Tên bài tập | Lời giải | Độ khó | Chủ đề | Độ phức tạp |
